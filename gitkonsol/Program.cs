@@ -10,6 +10,10 @@ namespace gitkonsol
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("TEST");
+            Console.WriteLine("Kolejny test");
+
+            Console.ReadKey();
         }
     }
 }
